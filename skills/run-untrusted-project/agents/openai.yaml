@@ -1,0 +1,4 @@
+interface:
+  display_name: "Run Untrusted Project"
+  short_description: "Run projects only in Microsandbox"
+  default_prompt: "Use $run-untrusted-project to run this project safely."
